@@ -1,29 +1,51 @@
-com/chaejm55/book/springboot/web/HelloController.java
- com.chaejm55.book.springboot.web.HelloController
 com/chaejm55/book/springboot/web/dto/PostsUpdateRequestDto.java
  com.chaejm55.book.springboot.web.dto.PostsUpdateRequestDto
  com.chaejm55.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/chaejm55/book/springboot/domain/posts/Posts.java
- com.chaejm55.book.springboot.domain.posts.Posts
- com.chaejm55.book.springboot.domain.posts.Posts$PostsBuilder
-com/chaejm55/book/springboot/web/dto/HelloResponseDto.java
- com.chaejm55.book.springboot.web.dto.HelloResponseDto
-com/chaejm55/book/springboot/Application.java
- com.chaejm55.book.springboot.Application
+com/chaejm55/book/springboot/web/PostsApiController.java
+ com.chaejm55.book.springboot.web.PostsApiController
+com/chaejm55/book/springboot/domain/user/UserRepository.java
+ com.chaejm55.book.springboot.domain.user.UserRepository
+com/chaejm55/book/springboot/web/dto/PostsResponseDto.java
+ com.chaejm55.book.springboot.web.dto.PostsResponseDto
+com/chaejm55/book/springboot/web/dto/PostsListResponseDto.java
+ com.chaejm55.book.springboot.web.dto.PostsListResponseDto
+com/chaejm55/book/springboot/domain/posts/PostsRepository.java
+ com.chaejm55.book.springboot.domain.posts.PostsRepository
+com/chaejm55/book/springboot/domain/user/User.java
+ com.chaejm55.book.springboot.domain.user.User
+ com.chaejm55.book.springboot.domain.user.User$UserBuilder
+com/chaejm55/book/springboot/domain/BaseTimeEntity.java
+ com.chaejm55.book.springboot.domain.BaseTimeEntity
 com/chaejm55/book/springboot/web/dto/PostsSaveRequestDto.java
  com.chaejm55.book.springboot.web.dto.PostsSaveRequestDto
  com.chaejm55.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/chaejm55/book/springboot/web/dto/PostsResponseDto.java
- com.chaejm55.book.springboot.web.dto.PostsResponseDto
-com/chaejm55/book/springboot/domain/BaseTimeEntity.java
- com.chaejm55.book.springboot.domain.BaseTimeEntity
-com/chaejm55/book/springboot/domain/posts/PostsRepository.java
- com.chaejm55.book.springboot.domain.posts.PostsRepository
-com/chaejm55/book/springboot/web/dto/PostsListResponseDto.java
- com.chaejm55.book.springboot.web.dto.PostsListResponseDto
-com/chaejm55/book/springboot/web/PostsApiController.java
- com.chaejm55.book.springboot.web.PostsApiController
-com/chaejm55/book/springboot/web/IndexController.java
- com.chaejm55.book.springboot.web.IndexController
 com/chaejm55/book/springboot/service/posts/PostsService.java
  com.chaejm55.book.springboot.service.posts.PostsService
+com/chaejm55/book/springboot/Application.java
+ com.chaejm55.book.springboot.Application
+com/chaejm55/book/springboot/domain/posts/Posts.java
+ com.chaejm55.book.springboot.domain.posts.Posts
+ com.chaejm55.book.springboot.domain.posts.Posts$PostsBuilder
+com/chaejm55/book/springboot/domain/user/Role.java
+ com.chaejm55.book.springboot.domain.user.Role
+com/chaejm55/book/springboot/web/dto/HelloResponseDto.java
+ com.chaejm55.book.springboot.web.dto.HelloResponseDto
+com/chaejm55/book/springboot/web/HelloController.java
+ com.chaejm55.book.springboot.web.HelloController
+com/chaejm55/book/springboot/config/auth/SecurityConfig.java
+ com.chaejm55.book.springboot.config.auth.SecurityConfig
+com/chaejm55/book/springboot/web/IndexController.java
+ com.chaejm55.book.springboot.web.IndexController
+com/chaejm55/book/springboot/config/auth/dto/SessionUser.java
+ com.chaejm55.book.springboot.config.auth.dto.SessionUser
+com/chaejm55/book/springboot/config/auth/LoginUserArgumentResolver.java
+ com.chaejm55.book.springboot.config.auth.LoginUserArgumentResolver
+com/chaejm55/book/springboot/config/WebConfig.java
+ com.chaejm55.book.springboot.config.WebConfig
+com/chaejm55/book/springboot/config/auth/LoginUser.java
+ com.chaejm55.book.springboot.config.auth.LoginUser
+com/chaejm55/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.chaejm55.book.springboot.config.auth.dto.OAuthAttributes
+ com.chaejm55.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/chaejm55/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.chaejm55.book.springboot.config.auth.CustomOAuth2UserService
