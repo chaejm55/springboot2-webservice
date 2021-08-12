@@ -1,0 +1,10 @@
+com/chaejm55/book/springboot/web/HelloControllerTest.java
+ com.chaejm55.book.springboot.web.HelloControllerTest
+com/chaejm55/book/springboot/web/dto/HelloControllerDtoTest.java
+ com.chaejm55.book.springboot.web.dto.HelloControllerDtoTest
+com/chaejm55/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.chaejm55.book.springboot.domain.posts.PostsRepositoryTest
+com/chaejm55/book/springboot/web/PostsApiControllerTest.java
+ com.chaejm55.book.springboot.web.PostsApiControllerTest
+com/chaejm55/book/springboot/web/IndexControllerTest.java
+ com.chaejm55.book.springboot.web.IndexControllerTest
